@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import gql from 'graphql-tag';
 import { graphql } from 'react-apollo';
-import { Link, hashHistory } from 'react-router';
+import { Link } from 'react-router';
 
 //queries
 import fetchSongs from '../queries/fetchSongs';
