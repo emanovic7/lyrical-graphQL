@@ -25,7 +25,7 @@ class SongCreate extends Component {
   }
 
   render() {
-    console.log(this.state)
+    
     return (
       <div>
         <Link to="/">Songs</Link>
